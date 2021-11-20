@@ -125,8 +125,7 @@ pointer that have been created into **_traverse_** function. This function first
 height of the tree and executes **_saveLevel_** function in every level. saveLevel function
 recursively searches every node in that level and prints every node it searched into the file.
 
-_(reference for convert function: https://stackoverflow.com/questions/28893017/converting-
-an-array-into-binary-tree-using-c )_
+_(reference for convert function: https://stackoverflow.com/questions/28893017/converting-an-array-into-binary-tree-using-c )_
 
 # In Java (PerformanceTest.java):
 
